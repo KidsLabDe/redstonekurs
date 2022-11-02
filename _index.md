@@ -1,17 +1,16 @@
 ---
-title: Scratch
+title: Minecraft Redstonekurs
 weight: -100
-type: docs
-Draft: false
-icon: "fas fa-cat" # fontawesome icon : https://fontawesome.com/icons
-description: "Erfinde & Programmiere Dein eigenes Spiel - mit der Katze Scratch."
+Draft: true
+icon: "fas fa-plug" # fontawesome icon : https://fontawesome.com/icons
+description: "Lerne wie Redstone funktioniert und was man cooles damit machen kann."
 # type dont remove or customize
-type : "docs"
+type: "docs"
 ---
 
-## Steckbrief über den Kurs "...."
+## Steckbrief über den Redstonekurs
 
-[Scratch](https://scratch.mit.edu/) ist eine kostenlose Programmiersprache und -umgebung speziell für Kinder. Möchtest Du Dein eigenes Spiel erstellen? 
+ ...W
 
 Themen:
 
@@ -35,7 +34,7 @@ Ziele:
 
 - Alter: 8-14 Jahre
 - Vorraussetzungen: 
-  - Teilnehmer: keine
+  - Teilnehmer: Minecraftkenntnisse 
   - Mentoren: Grundkenntnisse Programmieren, erste Erfahrungen Scratch
 - Anzahl: 6-12 Teilnehmer
 

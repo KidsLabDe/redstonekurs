@@ -1,3 +1,15 @@
+## Grober Ablauf
+Dauer 16:30 — 18:00
+| Programmpunkt                 |   ca Dauer  |
+| --------------------------    |-------------|
+| Ankommen + Namensschild       |   15 min    |
+| Gegenseitig vorstellen        |   15 min    |
+| Redstone komponenten sammeln  |   20 min    |
+| gemeinsam regeln aufstellen   |             |
+| minecraft starten + bauen     |
+
+
+
 # Redstone Basics
 Um Redstone kennen zu lernen ist es am Besten im Creative mode anzufangen.
 Im Creative Inventar gibts viele Bauteile:

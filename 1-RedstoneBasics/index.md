@@ -7,6 +7,7 @@ Dauer 16:30 — 18:00
 | Redstone komponenten sammeln  |   20 min    |
 | gemeinsam regeln aufstellen   |             |
 | minecraft starten + bauen     |
+| [kahoot](https://create.kahoot.it/share/minecraft-redstone-1/3aae01cf-c976-49ef-8898-783d7b9798c4)||
 
 
 

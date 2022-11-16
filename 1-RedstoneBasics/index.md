@@ -50,7 +50,7 @@ Welche Wege gibt es noch ein Redstone Signal nach oben zu befördern?
 Welche Möglichkeiten gibt es um ein Signal nach unten zu Leiten?
 {{</notice>}}
 
-{{</notice mentor>}}
+{{</notice mentor "Hinweis für Mentoren">}}
 im mscs ordner von der redstone-kurs-welt gibts ein ./provide-download.sh script, das die Welt zum Download bereit stellt.
 {{</notice>}}
 {{</notice note>}}

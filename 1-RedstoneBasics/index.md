@@ -52,7 +52,7 @@ Welche Möglichkeiten gibt es um ein Signal nach unten zu Leiten?
 
 {{</notice mentor>}}
 im mscs ordner von der redstone-kurs-welt gibts ein ./provide-download.sh script, das die Welt zum Download bereit stellt.
-{{}}
+{{</notice>}}
 {{</notice note>}}
 wenn der Mentor die Welt zum Downoad freigegeben hat kannst du sie mit dem Befehl `wget kidslab.de/dl/redstone-kurs-welt.zip && unzip redstone-kurs-welt.zip` im Terminal herunterladen.
-{{}}
+{{</notice>}}

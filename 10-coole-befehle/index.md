@@ -35,3 +35,20 @@ Der CommandBlock muss richtig eingestellt sein:
 - Unbedingt
 - Immer aktiv
 ![CommandBlock Einstellungen](commandblock_settings.png)
+
+
+## TNT darf nicht explodieren
+![TNT darf nicht explodieren](tnt_not_explode.png)
+`kill @e[type=minecraft:tnt,nbt={Fuse:1s}]`
+------
+- `kill`= töte auf deutsch
+- `@e` wählt alle _entities_ aus, also alle Wesen in der Welt  
+{{<notice note "ACHTUNG!">}}
+Der Befehl `/kill @e` ohne `[...]` tötet ALLES:
+    - Alle Mobs, Monster, Tiere, Dorfbewohner
+    - Alle Items die rumliegen
+    - Alle Spieler (Ja auch dich selbst! :o)
+    - Alle Gemälde und Itemframes
+    - Alle Rüstungsständer
+{{</notice>}}
+- `@e[type=minecraft:tnt,nbt={Fuse:1s}]` sagt, dass alles vom typ tnt das gleichzeitig die Zusatzeigenschaft (`nbt={...}` hat dass es gleich explodieren würde (`{Fuse:1s}` _fuse_ = Zündschnur)

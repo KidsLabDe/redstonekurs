@@ -31,7 +31,7 @@ Wenn ihr euch nicht erinnert wie genau die Befehle waren die wir im Kurs gezeigt
 nochmal alles in einem: `execute at @e[type=minecraft:slime] run setblock ~ ~-1 ~ minecraft:gold_block`
 
 Der CommandBlock muss richtig eingestellt sein:
-- Wiederholen
+- Wiederholen (blauer CommandBlock)
 - Unbedingt
 - Immer aktiv
 ![CommandBlock Einstellungen](commandblock_settings.png)
@@ -52,3 +52,9 @@ Der Befehl `/kill @e` ohne `[...]` tötet ALLES:
     - Alle Rüstungsständer
 {{</notice>}}
 - `@e[type=minecraft:tnt,nbt={Fuse:1s}]` sagt, dass alles vom typ tnt das gleichzeitig die Zusatzeigenschaft (`nbt={...}` hat dass es gleich explodieren würde (`{Fuse:1s}` _fuse_ = Zündschnur)
+
+Der CommandBlock muss richtig eingestellt sein:
+- Wiederholen (blauer CommandBlock)
+- Unbedingt
+- Immer aktiv
+![CommandBlock Einstellungen](commandblock_settings.png)
